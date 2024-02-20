@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 7 Gadgets Set
+  m_EditorClassIdentifier: 
+  Header: Gadgets
+  Content:
+  - {fileID: 21300000, guid: 610fe90f2e084914cafae9fb937a8b3e, type: 3}
+  - {fileID: 21300000, guid: 994f37b5f4b520d43ab987fdb3b87b45, type: 3}
+  - {fileID: 21300000, guid: 293a94a6fc7dbd84cb66853b7bd71ba2, type: 3}
+  - {fileID: 21300000, guid: db902b4f69e6cb74a990e4904fee41c2, type: 3}
+  - {fileID: 21300000, guid: a119ff04a634dc7469d0a12677be2368, type: 3}
+  - {fileID: 21300000, guid: f5553f58437ce684792d0277fd3271d7, type: 3}
+  - {fileID: 21300000, guid: 34ca268fa68a43740955371020ba18ee, type: 3}
+  - {fileID: 21300000, guid: a0bac955f48b6864da488e958dfcee76, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: 574eeba3202913c4fb289593c237c942, type: 3}

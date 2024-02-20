@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 15 Fastfoods Set
+  m_EditorClassIdentifier: 
+  Header: Foods
+  Content:
+  - {fileID: 21300000, guid: 48cdb0a36d1ec944aa2d346a9d3f4778, type: 3}
+  - {fileID: 21300000, guid: 2232159c0f4082a48b4c0775e5b890f9, type: 3}
+  - {fileID: 21300000, guid: 5c392c2d17d1fa343a189387d7f2d4b1, type: 3}
+  - {fileID: 21300000, guid: 9f491d8307ff2bb47927599bfd6cdd68, type: 3}
+  - {fileID: 21300000, guid: c6009a53ffa4dee458dc193c8af4bf1f, type: 3}
+  - {fileID: 21300000, guid: 3e7c532923c9fcf469710e746c8d93e4, type: 3}
+  - {fileID: 21300000, guid: 6d4dd4ee4e6ab0943893cc95eec3346a, type: 3}
+  - {fileID: 21300000, guid: 4b8043093035fed41ae9382dc998fb70, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: cf2ca67e5f02eaf4ba163878eaa72c5c, type: 3}

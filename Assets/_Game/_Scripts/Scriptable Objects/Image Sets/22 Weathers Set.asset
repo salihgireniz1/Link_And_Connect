@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 22 Weathers Set
+  m_EditorClassIdentifier: 
+  Header: Weathers
+  Content:
+  - {fileID: 21300000, guid: 98f599945a6eeb741b6978941c2f33e3, type: 3}
+  - {fileID: 21300000, guid: a3fa0197d438aa2448128fe76dd85712, type: 3}
+  - {fileID: 21300000, guid: 63b4950aea281514fb24100abc600588, type: 3}
+  - {fileID: 21300000, guid: 2773bdfe276615746b47198ad2683d5d, type: 3}
+  - {fileID: 21300000, guid: 6f59ffa8ac9700b4599cf04bff45ff39, type: 3}
+  - {fileID: 21300000, guid: c27fdbaf0561d364fa611fe79f14725b, type: 3}
+  - {fileID: 21300000, guid: 39868c9c6cc6dc74fba34ea03c9926e5, type: 3}
+  - {fileID: 21300000, guid: 2fef3e48ca3244e4f9dafdf0579432b2, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: d854f36cf0662fb42ab9348eb07dbb7a, type: 3}

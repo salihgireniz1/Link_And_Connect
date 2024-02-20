@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 2 Emojis Set
+  m_EditorClassIdentifier: 
+  Header: Emojis
+  Content:
+  - {fileID: 21300000, guid: e036749f4143da34781c0ef5f82b3920, type: 3}
+  - {fileID: 21300000, guid: 0a0c3ed35d299eb4181a7f7bf0594920, type: 3}
+  - {fileID: 21300000, guid: 58b59a40edd26e94aa21e6fdedf8c822, type: 3}
+  - {fileID: 21300000, guid: 310e5375110b8d34b9d60709a3915ced, type: 3}
+  - {fileID: 21300000, guid: ae25a273c80a1d649accbcf1013667b0, type: 3}
+  - {fileID: 21300000, guid: 3cb36dc15666b8447b7f03e0f64ab768, type: 3}
+  - {fileID: 21300000, guid: 9214c4a09b0825c45b4e5a9a304da665, type: 3}
+  - {fileID: 21300000, guid: b86942bfca4d51f40ae218ba8583f992, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: 89021a19135c54646862ab4fba07cfa5, type: 3}

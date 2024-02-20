@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 5 Vehicles Set
+  m_EditorClassIdentifier: 
+  Header: Vehicles
+  Content:
+  - {fileID: 21300000, guid: f26e822091cb1a54aa82f15a00986583, type: 3}
+  - {fileID: 21300000, guid: 44d1620d8d4204e4cbf4e925d8815edf, type: 3}
+  - {fileID: 21300000, guid: 88a81ca13d8ef194a934ab3b6659c0f4, type: 3}
+  - {fileID: 21300000, guid: 1116c50452a42be4f80683dfb6afc8bb, type: 3}
+  - {fileID: 21300000, guid: cc81f2669237e964589fb1f5431d81a1, type: 3}
+  - {fileID: 21300000, guid: 851783a41fd0eea4cb132570e70359c4, type: 3}
+  - {fileID: 21300000, guid: 459ca23ae6c488c4ea612957daca6ac3, type: 3}
+  - {fileID: 21300000, guid: 8744435b30ed8424896edba240a089e1, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: 248d794cfc93f014b856fdf44feec911, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 17 Flowers Set
+  m_EditorClassIdentifier: 
+  Header: Flowers
+  Content:
+  - {fileID: 21300000, guid: e052782e1f1aa86459986250717459b8, type: 3}
+  - {fileID: 21300000, guid: 9f4383a615fe5a64988d6173503cb661, type: 3}
+  - {fileID: 21300000, guid: 9e73c9e71329c794c88f270c3c04933e, type: 3}
+  - {fileID: 21300000, guid: f044bd0890a01c74981bdeab4d56a8b0, type: 3}
+  - {fileID: 21300000, guid: 4d32f08a106991d40a5af23d6b45adf8, type: 3}
+  - {fileID: 21300000, guid: 87a7dd9499a20724ab09bb9e0b04fff5, type: 3}
+  - {fileID: 21300000, guid: e99940f1ee9e21442be1eb15d8bf05ce, type: 3}
+  - {fileID: 21300000, guid: 2bc745f86003b2d4d81dc04de4cb2169, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: 643eb4ebaa134a54bb3ccc99ea2e116e, type: 3}

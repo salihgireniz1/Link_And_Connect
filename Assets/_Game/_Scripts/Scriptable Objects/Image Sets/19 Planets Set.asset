@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 19 Planets Set
+  m_EditorClassIdentifier: 
+  Header: Planets
+  Content:
+  - {fileID: 21300000, guid: 7f9bf964abc7f1d44a8f63ba2ea35c7b, type: 3}
+  - {fileID: 21300000, guid: 851698e515a87bd4c8e520e29ac18bc8, type: 3}
+  - {fileID: 21300000, guid: f8135673e8fe0be489beb0129a6f5a63, type: 3}
+  - {fileID: 21300000, guid: 7f39a3dc6c0a4f449bf3b8bfe5c508b0, type: 3}
+  - {fileID: 21300000, guid: d284a14dfdeab7945b1e67e6a78b8e34, type: 3}
+  - {fileID: 21300000, guid: b7c9a1841309d8949a2edc42206e7b33, type: 3}
+  - {fileID: 21300000, guid: ec530c348f219144faec690cc53df030, type: 3}
+  - {fileID: 21300000, guid: 46b4942ed5fd75e46a2be2b0e0a74558, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: a1f98626501d3754b85b5af8fdb768b0, type: 3}

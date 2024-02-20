@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 13 Instruments Set
+  m_EditorClassIdentifier: 
+  Header: Instruments
+  Content:
+  - {fileID: 21300000, guid: b4f4710ffb3554148984d32fa9a8f81e, type: 3}
+  - {fileID: 21300000, guid: f7b107f94e3bb8745be876a087999aaf, type: 3}
+  - {fileID: 21300000, guid: e5158c4ed17d7be40a9cd59f2120f48d, type: 3}
+  - {fileID: 21300000, guid: 4e12610d208b9604db83fa59366d749c, type: 3}
+  - {fileID: 21300000, guid: 99c81d8efa65c8f47841d4b32349fd66, type: 3}
+  - {fileID: 21300000, guid: 6fc29da4390033d4f8d7afb0d2ab058c, type: 3}
+  - {fileID: 21300000, guid: a1e5160b4fbfb2d46abb3ddf16b303a0, type: 3}
+  - {fileID: 21300000, guid: 64a73dc5669e1f34597955b6454341e8, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: af13cc4c063f5914bbec2359c5b3649c, type: 3}

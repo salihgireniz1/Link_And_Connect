@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 14 Social Medias Set
+  m_EditorClassIdentifier: 
+  Header: Social Media
+  Content:
+  - {fileID: 21300000, guid: 42ce0bd4ab46e974281ecc3d6ee29a6e, type: 3}
+  - {fileID: 21300000, guid: d62f2c3f666b6fe4e9a65b721e2b9ec6, type: 3}
+  - {fileID: 21300000, guid: a6bdecf128a56e841b480bd1521f230b, type: 3}
+  - {fileID: 21300000, guid: b495cca7484e1c6408efbe91f480614e, type: 3}
+  - {fileID: 21300000, guid: 06287836846d79a4dba3bb539436edb6, type: 3}
+  - {fileID: 21300000, guid: 08fb77439c0ff6b4080d69b5ef337923, type: 3}
+  - {fileID: 21300000, guid: 28228e62aeb4f2c4bb91976c24c071a1, type: 3}
+  - {fileID: 21300000, guid: d9a6c1005f5f46e41a8411d2b9e40745, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: d55f4a520d68962429d64cb54f6e85c6, type: 3}

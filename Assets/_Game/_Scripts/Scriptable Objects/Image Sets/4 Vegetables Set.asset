@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2321042fedcf1de40b5824a514a9a518, type: 3}
+  m_Name: 4 Vegetables Set
+  m_EditorClassIdentifier: 
+  Header: Vegetables
+  Content:
+  - {fileID: 21300000, guid: 88b4a310e54a32e48a1a0edd4c9f01fe, type: 3}
+  - {fileID: 21300000, guid: c7999feb96e90ea428882da50bae0741, type: 3}
+  - {fileID: 21300000, guid: d7199837097cdc1449dbbe51ecb2fb04, type: 3}
+  - {fileID: 21300000, guid: 14a3c1f722216654188249b0415a9851, type: 3}
+  - {fileID: 21300000, guid: 27618df07a34a674a9a5fd650f69113e, type: 3}
+  - {fileID: 21300000, guid: a1387b6386ffdde4da510e4ad10b377f, type: 3}
+  - {fileID: 21300000, guid: b86a2b6aacae64944b0d381aa93fa147, type: 3}
+  - {fileID: 21300000, guid: 3e0c32fa18235e6439465f04320fe1b8, type: 3}
+  maxSpawnAmount: 5
+  setSymbol: {fileID: 21300000, guid: 92986f05a47436e41b15b71c357f2a7e, type: 3}

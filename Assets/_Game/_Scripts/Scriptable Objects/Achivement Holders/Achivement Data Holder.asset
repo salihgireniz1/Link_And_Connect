@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb659808f235e44297cc822ba400d29, type: 3}
+  m_Name: Achivement Data Holder
+  m_EditorClassIdentifier: 
+  setAchivements:
+  - {fileID: 1979362397, guid: 258c0f768edc95843a3404f8959b4e2c, type: 3}
+  - {fileID: 1979362397, guid: 1019704e17417ea4795e5f3f82b15390, type: 3}
+  - {fileID: 1979362397, guid: 6057383580bb46347adf00dc9880978e, type: 3}
+  - {fileID: 1979362397, guid: 598500c1b9336b74a9cf12ac83c72693, type: 3}
+  - {fileID: 1979362397, guid: 60c7b1d0cf845db49835e2cf7b896639, type: 3}
+  - {fileID: 1979362397, guid: 89eb7aead3840ce409bb34dccc8065d4, type: 3}
+  - {fileID: 1979362397, guid: db700c1491404db449d93c975c6bb46b, type: 3}
+  - {fileID: 1979362397, guid: d92bb7c10baf025438d6fb098b89eb76, type: 3}
+  - {fileID: 1979362397, guid: 452f96d76676c2f4596524b6fbcd2e26, type: 3}
+  - {fileID: 1979362397, guid: 3e8a46978856221499ac0a9c5871c2fa, type: 3}
+  - {fileID: 1979362397, guid: 196f579bfb442e740a7ffe410902d83f, type: 3}
+  - {fileID: 1979362397, guid: aa72d17b159938043a49566fa1463940, type: 3}
+  - {fileID: 1979362397, guid: 229be9474f9e04f428beb08603ba9613, type: 3}
+  - {fileID: 1979362397, guid: 9f16b9c5bf3bc9b4d8eb4a55415966de, type: 3}
+  - {fileID: 1979362397, guid: cfb536ea6200ab54d91e43da2e351e5d, type: 3}
+  - {fileID: 1979362397, guid: 49eb181b57e35d847b4b05b49db9e6b0, type: 3}
+  - {fileID: 1979362397, guid: ed880889f005b95499e25b1aa95bf396, type: 3}
+  - {fileID: 1979362397, guid: cf627b0adb530b44c9e866db0e422ad7, type: 3}
+  - {fileID: 1979362397, guid: 36480c3292f0f2d4b8b6add1a0ac5bb4, type: 3}
+  - {fileID: 1979362397, guid: 31db27028740af44da7d616450b9bd7d, type: 3}
+  - {fileID: 1979362397, guid: 6cadf013408dee94f980732ee458b1e1, type: 3}
+  - {fileID: 1979362397, guid: b60df4c8ee5b00e4db88cab0575d1fe1, type: 3}
+  - {fileID: 1979362397, guid: 8223b4366eaedf4459213a25f59e35f1, type: 3}
+  - {fileID: 1979362397, guid: b9141b837479a2745bec5ac269223119, type: 3}
+  uIParent: {fileID: 0}
+  defaultActiveCount: 4
